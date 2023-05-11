@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683798093 source:d:\lectures\2nd semester\data structures & algorithms\week 9\lab 9\main.cpp
+	<iostream>
+	"linkedlist.cpp"
+
+1683794064 d:\lectures\2nd semester\data structures & algorithms\week 9\lab 9\linkedlist.cpp
+	<iostream>
+
